@@ -1,0 +1,1 @@
+print("priyasnhu", "Aman", "Ram")
