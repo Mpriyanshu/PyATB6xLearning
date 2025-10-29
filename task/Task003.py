@@ -26,3 +26,4 @@ print("Area of circle is:", area)
 
 # string data formatting, Python f-strings, Formatted string literals
 print(f"Area of circle is:{area:.2f}")
+
