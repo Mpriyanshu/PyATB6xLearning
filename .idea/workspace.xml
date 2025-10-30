@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="16 oct code Added">
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/LabMatch002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/LabSwitch001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab048_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab049_For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab050_For_Looops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab051_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/task06_Factorial.py" afterDir="false" />
+    <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="18 oct code Added">
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab052_IQ2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/LabForReverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/LabForUsedRealLife.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/Lab053_While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/LabWhile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/LabWhile_vs_For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/task011_API call.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/task012_page load.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_Loops/Lab048_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab048_Loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_Loops/Lab049_For_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab049_For_Loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_Loops/Lab050_For_Looops.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab050_For_Looops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_Loops/Lab051_IQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab051_IQ.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,8 +108,11 @@
     "Python.Lab049_For_Loop.executor": "Run",
     "Python.Lab050_For_Looops.executor": "Run",
     "Python.Lab051_IQ.executor": "Run",
+    "Python.LabForReverse.executor": "Run",
+    "Python.LabForUsedRealLife.executor": "Run",
     "Python.LabMatch002.executor": "Run",
     "Python.LabSwitch001.executor": "Run",
+    "Python.LabWhile_vs_For.executor": "Run",
     "Python.Q1.executor": "Run",
     "Python.Q2.executor": "Run",
     "Python.Q3.executor": "Run",
@@ -114,6 +122,8 @@
     "Python.Task003.executor": "Run",
     "Python.hw1.executor": "Run",
     "Python.task 5.executor": "Run",
+    "Python.task012_page load.executor": "Run",
+    "Python.task06_API call.executor": "Run",
     "Python.task06_Factorial.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -123,12 +133,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_07_Loops\For" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_05_Condition_Loops" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab051_IQ">
-    <configuration name="Lab048_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.task012_page load">
+    <configuration name="LabForReverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/For" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Lab048_Loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/For/LabForReverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab049_For_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LabForUsedRealLife" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/For" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Lab049_For_Loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/For/LabForUsedRealLife.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab050_For_Looops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LabWhile_vs_For" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/While" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Lab050_For_Looops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/While/LabWhile_vs_For.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,29 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab051_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Lab051_IQ.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task06_Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task011_API call" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,7 +218,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/homework/task06_Factorial.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\homework\task011_API call.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task012_page load" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/homework/task012_page load.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab051_IQ" />
-        <item itemvalue="Python.task06_Factorial" />
-        <item itemvalue="Python.Lab050_For_Looops" />
-        <item itemvalue="Python.Lab049_For_Loop" />
-        <item itemvalue="Python.Lab048_Loop" />
+        <item itemvalue="Python.task012_page load" />
+        <item itemvalue="Python.LabWhile_vs_For" />
+        <item itemvalue="Python.task011_API call" />
+        <item itemvalue="Python.LabForUsedRealLife" />
+        <item itemvalue="Python.LabForReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761775416553</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="18 oct code Added">
+      <option name="closed" value="true" />
+      <created>1761848164342</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761848164342</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -367,6 +386,7 @@
     <MESSAGE value="11 oct Added" />
     <MESSAGE value="14 oct code Added" />
     <MESSAGE value="16 oct code Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="16 oct code Added" />
+    <MESSAGE value="18 oct code Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="18 oct code Added" />
   </component>
 </project>
