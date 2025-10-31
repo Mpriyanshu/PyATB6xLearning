@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="18 oct code Added">
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab054_For_While_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab055_For_Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab057_Pass_Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab058_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab059_odd_Even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Pass_vs_Continue/LabPass_vs_Continue_059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/Lab056_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/task013_Print even28oct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Task008_Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/task_FizzBuzz.py" afterDir="false" />
+    <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="28 oct code Added">
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab060_Built_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab061_Example_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab062_Example_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab063_Functions_Parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab064_Type3_Function_return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lav065_Function_Default_Parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lav066_Function_Return_Multiple_Value.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,12 +110,17 @@
     "Python.Lab057_Pass_Break.executor": "Run",
     "Python.Lab058_IQ.executor": "Run",
     "Python.Lab059_odd_Even.executor": "Run",
+    "Python.Lab061_Example_Functions.executor": "Run",
+    "Python.Lab062_Example_Functions.executor": "Run",
+    "Python.Lab063_Functions_Parameter.executor": "Run",
+    "Python.Lab064_Type3_Function_return.executor": "Run",
     "Python.LabForReverse.executor": "Run",
     "Python.LabForUsedRealLife.executor": "Run",
     "Python.LabMatch002.executor": "Run",
     "Python.LabPass_vs_Continue_059.executor": "Run",
     "Python.LabSwitch001.executor": "Run",
     "Python.LabWhile_vs_For.executor": "Run",
+    "Python.Lav066_Function_Return_Multiple_Value.executor": "Run",
     "Python.Q1.executor": "Run",
     "Python.Q2.executor": "Run",
     "Python.Q3.executor": "Run",
@@ -146,8 +149,8 @@
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task_FizzBuzz">
-    <configuration name="Lab058_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lav066_Function_Return_Multiple_Value">
+    <configuration name="Lab061_Example_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Lab058_IQ.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/Lab061_Example_Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab059_odd_Even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab062_Example_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Lab059_odd_Even.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/Lab062_Example_Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LabPass_vs_Continue_059" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab063_Functions_Parameter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/Pass_vs_Continue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Pass_vs_Continue/LabPass_vs_Continue_059.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/Lab063_Functions_Parameter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task013_Print even28oct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab064_Type3_Function_return" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,11 +225,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/homework/task013_Print even28oct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/Lab064_Type3_Function_return.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lav066_Function_Return_Multiple_Value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,11 +247,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/task_FizzBuzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/Lav066_Function_Return_Multiple_Value.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_FizzBuzz" />
-        <item itemvalue="Python.LabPass_vs_Continue_059" />
-        <item itemvalue="Python.task013_Print even28oct" />
-        <item itemvalue="Python.Lab059_odd_Even" />
-        <item itemvalue="Python.Lab058_IQ" />
+        <item itemvalue="Python.Lav066_Function_Return_Multiple_Value" />
+        <item itemvalue="Python.Lab064_Type3_Function_return" />
+        <item itemvalue="Python.Lab063_Functions_Parameter" />
+        <item itemvalue="Python.Lab062_Example_Functions" />
+        <item itemvalue="Python.Lab061_Example_Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761853513216</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="28 oct code Added">
+      <option name="closed" value="true" />
+      <created>1761908437454</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1761908437454</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -403,6 +414,7 @@
     <MESSAGE value="14 oct code Added" />
     <MESSAGE value="16 oct code Added" />
     <MESSAGE value="18 oct code Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="18 oct code Added" />
+    <MESSAGE value="28 oct code Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="28 oct code Added" />
   </component>
 </project>
