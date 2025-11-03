@@ -13,3 +13,5 @@ def outer_function():
     inner_function2()
 
 outer_function()
+# inner_function - cant call
+

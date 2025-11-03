@@ -11,15 +11,17 @@
 # Attempt 2: Response 200
 # Test Passed
 
-API_Call = 0
-while API_Call < 3:
-    number = int(input("Enter a number: "))
-    if number == 200:
-        print("Test Passed",number)
-        break
-    elif number != 200:
-        print("No response",number)
-        API_Call +=1
-if API_Call == 3:
-        print("Test Failed",number)
+attempt = 1
+max_attempt = 3
+response = None
 
+while attempt <= max_attempt:
+    response = int(input("Enter the Response"))
+    if response == 200:
+       print("Test Passed")
+       break
+    else:
+      attempt = attempt + 1
+
+if response != 200:
+         print("Test Failed after 3 attempts.")

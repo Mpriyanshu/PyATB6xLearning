@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="1st nov code Added">
-      <change afterPath="$PROJECT_DIR$/src/python_dir/Lab075_Local_Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_dir/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_dir/Lab077_Local_Var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_dir/Lab078_Inner_Functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/task011_API call.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/task011_API call.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/python_dir/Lab078_Inner_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python_dir/Lab078_Inner_Functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +139,7 @@
     "Python.Task008_Factorial.executor": "Run",
     "Python.hw1.executor": "Run",
     "Python.task 5.executor": "Run",
+    "Python.task011_API call.executor": "Run",
     "Python.task012_page load.executor": "Run",
     "Python.task013_Print even28oct.executor": "Run",
     "Python.task014_function (1).executor": "Run",
@@ -163,29 +161,7 @@
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab078_Inner_Functions">
-    <configuration name="Lab072_Infinite_Args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/Lab072_Infinite_Args.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.task011_API call">
     <configuration name="Lab073_Real_Args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -252,6 +228,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task011_API call" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/homework/task011_API call.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task015_test_pass_fail_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -276,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task011_API call" />
         <item itemvalue="Python.Lab078_Inner_Functions" />
         <item itemvalue="Python.Lab077_Local_Var" />
         <item itemvalue="Python.task015_test_pass_fail_01" />
         <item itemvalue="Python.Lab073_Real_Args" />
-        <item itemvalue="Python.Lab072_Infinite_Args" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +449,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762103211466</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="1st nov code Added">
+      <option name="closed" value="true" />
+      <created>1762166611168</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1762166611168</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
