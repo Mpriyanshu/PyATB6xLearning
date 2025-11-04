@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="1st nov code Added">
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab Time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab079_Decorotors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab080_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab081_WithOutDecor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab082_Real_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab083_Decor_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab084_IQ_Leap_Year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab087_Type_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab088_IQ_Triangle_Classifer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab090_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab091_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab092_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab093_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab094_User_Input_ODD_Even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab095_Lambda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/python_dir/Lab075_Local_Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/python_dir/Lab075_Local_Variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/python_dir/Lab076.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/python_dir/Lab076.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/python_dir/Lab077_Local_Var.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/python_dir/Lab077_Local_Var.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/python_dir/Lab078_Inner_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/python_dir/Lab078_Inner_Functions.py" afterDir="false" />
-    </list>
+    <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="4th nov code Added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,11 +167,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_08_Functions" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\task" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_07_Loops\For" />
-      <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_05_Condition_Loops" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Lab095_Lambda">
@@ -507,7 +486,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762167274713</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="4th nov code Added">
+      <option name="closed" value="true" />
+      <created>1762268285779</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1762268285779</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -519,6 +506,7 @@
     <MESSAGE value="28 oct code Added" />
     <MESSAGE value="30 oct code Added" />
     <MESSAGE value="1st nov code Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st nov code Added" />
+    <MESSAGE value="4th nov code Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th nov code Added" />
   </component>
 </project>
