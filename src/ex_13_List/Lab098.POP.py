@@ -1,6 +1,6 @@
 squares = [1, 4, 9, 16, 25]
 print(squares)
-print(squares.pop()) # Remove and return
+print(squares.pop()) # Remove and return item at index
 print(squares)
 print(squares.pop(1))
 print(squares)

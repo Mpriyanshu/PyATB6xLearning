@@ -4,11 +4,18 @@ print(shopping_list_wife)
 
 # Real of Tuples
 my_tuple = ("tta.com", "sdet.live")
+print(my_tuple)
 my_api_list = list(my_tuple)
 print(my_api_list)
 
+my_api_list.append("item2")
+
+my_api_list2 = tuple(my_api_list)
+print(my_api_list2)
+
+
 # Real case, where we Tuples
-API_URLSs = ("https://sdet.live/python0x", "https://awesomeqa. com")
+API_URLSs = ("https://sdet.live/python0x", "https://awesomeqa.com")
 print(API_URLSs[0])
 print(API_URLSs[1])
 
@@ -17,3 +24,14 @@ print(t)
 
 l = list()
 print(l)
+
+# Conversion List to tuple
+t1 = tuple(["priyanshu", "aman", "Shiv"])
+print(t1)
+
+hero1 = ("Batman", "Bruce Wayne" )
+hero2 = ("Wonder Woman", "Diana Prince")
+new_tuple = (hero1, hero2)
+print(new_tuple[0])
+print(new_tuple[0][0])
+print(new_tuple[1][1])
