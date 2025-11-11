@@ -1,16 +1,20 @@
 input_string = "hello, world!"
-# a,e, i, o,u.
-# vowel ?
+
 
 vowels = "aeiou"
+consonants = "bcdfghjklmnpqrst"
 
 vowels_count = 0
-result = list()
+consonant_count = 0
+result = dict()
 
 for char in input_string:
     if char in vowels:
         vowels_count = vowels_count+1
-        result.append(char)
+    elif char in consonants:
+        consonant_count = consonant_count+1
+
+
 
 print(vowels_count)
-print(result)
+print(consonant_count)
