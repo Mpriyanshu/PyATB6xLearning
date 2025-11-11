@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="8th nov code Added">
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab111_Dic_Frequency_Char_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab112_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab113_Dict_IQ_Max_Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab114_IQ_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_Dup_Keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab116_IQ_count_vowel.py" afterDir="false" />
+    <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="11th nov code Added">
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/Lab117_OOps_Class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,6 +158,7 @@
     "Python.Lab115_Dict_Dup_Keys.executor": "Run",
     "Python.Lab115_Dict_IQ.executor": "Run",
     "Python.Lab116_IQ_count_vowel.executor": "Run",
+    "Python.Lab117_OOps_Class.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -214,29 +209,7 @@
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_07_Loops\For" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab116_IQ_count_vowel">
-    <configuration name="Lab014_Math_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab014_Math_Functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lab117_OOps_Class">
     <configuration name="Lab114_IQ_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -325,13 +298,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab117_OOps_Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/Lab117_OOps_Class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab117_OOps_Class" />
         <item itemvalue="Python.Lab116_IQ_count_vowel" />
         <item itemvalue="Python.Lab115_Dict_IQ" />
         <item itemvalue="Python.Lab115_Dict_Dup_Keys" />
         <item itemvalue="Python.Lab114_IQ_Dict" />
-        <item itemvalue="Python.Lab014_Math_Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -582,7 +577,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762702531364</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="11th nov code Added">
+      <option name="closed" value="true" />
+      <created>1762853529324</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1762853529324</updated>
+    </task>
+    <task id="LOCAL-00031" summary="11th nov code Added">
+      <option name="closed" value="true" />
+      <created>1762855371853</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1762855371853</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -597,7 +608,8 @@
     <MESSAGE value="4th nov code Added" />
     <MESSAGE value="6th nov code Added" />
     <MESSAGE value="8th nov code Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="8th nov code Added" />
+    <MESSAGE value="11th nov code Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="11th nov code Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
