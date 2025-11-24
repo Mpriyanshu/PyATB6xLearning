@@ -1,4 +1,4 @@
-a = 10
+a = 10 # Variable everywhere in the program
 class Person:
     b = 11 # instance Variable
 
@@ -9,3 +9,5 @@ class Person:
         print(a)
 
 object_ref = Person()
+#print(b)
+#print(c)
