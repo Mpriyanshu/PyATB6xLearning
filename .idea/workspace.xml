@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="13th nov code Added">
+    <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="18th nov code Added">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation/Lab127_Encap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation/Lab128_Encaps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation/Lab129_Encaps_ENV.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation/Lab129_Encaps_ENV.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation/Lab129_Encaps_ENV.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,6 +171,7 @@
     "Python.Lab125_OOps.executor": "Run",
     "Python.Lab127_Encap.executor": "Run",
     "Python.Lab128_Encaps.executor": "Run",
+    "Python.Lab129_Encaps_ENV.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -226,7 +225,7 @@
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab128_Encaps">
+  <component name="RunManager" selected="Python.Lab129_Encaps_ENV">
     <configuration name="Lab127_Encap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -271,6 +270,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab129_Encaps_ENV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation/Lab129_Encaps_ENV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Task_Triangleprinting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -285,28 +306,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/homework/Task_Triangleprinting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task019_class person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task/homework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/homework/task019_class person.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,11 +338,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab129_Encaps_ENV" />
         <item itemvalue="Python.Lab128_Encaps" />
         <item itemvalue="Python.Lab127_Encap" />
         <item itemvalue="Python.Task_Triangleprinting" />
         <item itemvalue="Python.task020_Calc" />
-        <item itemvalue="Python.task019_class person" />
       </list>
     </recent_temporary>
   </component>
@@ -650,7 +649,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763974846432</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="18th nov code Added">
+      <option name="closed" value="true" />
+      <created>1764084451619</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1764084451619</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -678,7 +685,8 @@
     <MESSAGE value="8th nov code Added" />
     <MESSAGE value="11th nov code Added" />
     <MESSAGE value="13th nov code Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="13th nov code Added" />
+    <MESSAGE value="18th nov code Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="18th nov code Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
