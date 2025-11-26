@@ -9,12 +9,8 @@ class VWOLoginPage:
 
     def login_confirm(self):
         load_dotenv()
-
-        print("ENV USERNAME:", os.getenv("USERNAME"))
-        print("ENV PASSWORD:", os.getenv("PASSWORD"))
-
         if self.email == os.getenv("USERNAME") and self.password == os.getenv("PASSWORD"):
-            print("Allowed, Login Sucessfull")
+            print("Allowed, Login Successfull")
         else:
             print("Login Failed")
 
