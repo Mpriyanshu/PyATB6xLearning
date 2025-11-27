@@ -6,8 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="18th nov code Added">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/homework/task021_18nov_SI_Encap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/02_MI/Lab134_MI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/02_MI/Lab135_MI_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/03_ML/Lab136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/04_HI/Lab137_HI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/05_HB_I/Lab138_Hybrid_I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/Lab139_REAL_AUTOMATION.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/homework/Task022_task2_Encapsulation of API Token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/Lab133_Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/01_SI/Lab133_Inheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,6 +181,12 @@
     "Python.Lab131_Ecap_Example.executor": "Run",
     "Python.Lab132_Ecap_Personal.executor": "Run",
     "Python.Lab133_Inheritance.executor": "Run",
+    "Python.Lab134_MI.executor": "Run",
+    "Python.Lab135_MI_2.executor": "Run",
+    "Python.Lab136.executor": "Run",
+    "Python.Lab137_HI.executor": "Run",
+    "Python.Lab138_Hybrid_I.executor": "Run",
+    "Python.Lab139_REAL_AUTOMATION.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -199,6 +211,7 @@
     "Python.Task002.executor": "Run",
     "Python.Task003.executor": "Run",
     "Python.Task008_Factorial.executor": "Run",
+    "Python.Task022_task2_Encapsulation of API Token.executor": "Run",
     "Python.Task_Triangleprinting.executor": "Run",
     "Python.hw1.executor": "Run",
     "Python.task 5.executor": "Run",
@@ -223,15 +236,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\task\homework" />
+      <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\05_Inheritance\01_SI" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\01_Class_Object" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\Polymorphism" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\Class_Object" />
-      <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python" />
-      <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task021_18nov_SI_Encap">
-    <configuration name="Lab131_Ecap_Example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab139_REAL_AUTOMATION">
+    <configuration name="Lab136" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/03_ML" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation/Lab131_Ecap_Example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/03_ML/Lab136.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab132_Ecap_Personal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab137_HI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,11 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/04_HI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation/Lab132_Ecap_Personal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/04_HI/Lab137_HI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +288,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab133_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab138_Hybrid_I" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/05_HB_I" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/05_HB_I/Lab138_Hybrid_I.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab139_REAL_AUTOMATION" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,7 +323,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/Lab133_Inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/Lab139_REAL_AUTOMATION.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,29 +332,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LabPublic_Private_Protected" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/Encapsulation/LabPublic_Private_Protected.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task021_18nov_SI_Encap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task022_task2_Encapsulation of API Token" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,7 +345,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/homework/task021_18nov_SI_Encap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/homework/Task022_task2_Encapsulation of API Token.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,11 +356,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task021_18nov_SI_Encap" />
-        <item itemvalue="Python.Lab133_Inheritance" />
-        <item itemvalue="Python.LabPublic_Private_Protected" />
-        <item itemvalue="Python.Lab132_Ecap_Personal" />
-        <item itemvalue="Python.Lab131_Ecap_Example" />
+        <item itemvalue="Python.Lab139_REAL_AUTOMATION" />
+        <item itemvalue="Python.Task022_task2_Encapsulation of API Token" />
+        <item itemvalue="Python.Lab138_Hybrid_I" />
+        <item itemvalue="Python.Lab137_HI" />
+        <item itemvalue="Python.Lab136" />
       </list>
     </recent_temporary>
   </component>
@@ -702,7 +715,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764234305942</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="18th nov code Added">
+      <option name="closed" value="true" />
+      <created>1764235311976</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1764235311976</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
