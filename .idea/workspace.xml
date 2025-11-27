@@ -6,8 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="20th nov code Added">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overridding/Lab140_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overridding/Lab141_MO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading/Lab142_MOL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading/Lab143_All_MOL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading/Lab143_MOL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading/Lab144_MOL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab145_All_AB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab146_AbC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab147_REAL_AUTOMATION.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab148_Real.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab149_ABC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab150_Static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab151_Static_Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab152_Static_All.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab153_Static_Non_Static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab154_REAL_EXAMPLE.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,6 +195,17 @@
     "Python.Lab139_REAL_AUTOMATION.executor": "Run",
     "Python.Lab140_MO.executor": "Run",
     "Python.Lab141_MO.executor": "Run",
+    "Python.Lab142_MOL.executor": "Run",
+    "Python.Lab144_MOL.executor": "Run",
+    "Python.Lab146_AbC.executor": "Run",
+    "Python.Lab147_REAL_AUTOMATION.executor": "Run",
+    "Python.Lab148_Real.executor": "Run",
+    "Python.Lab149_ABC.executor": "Run",
+    "Python.Lab150_Static.executor": "Run",
+    "Python.Lab151_Static_Method.executor": "Run",
+    "Python.Lab152_Static_All.executor": "Run",
+    "Python.Lab153_Static_Non_Static.executor": "Run",
+    "Python.Lab154_REAL_EXAMPLE.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -239,8 +262,8 @@
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\Class_Object" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab141_MO">
-    <configuration name="Lab138_Hybrid_I" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab154_REAL_EXAMPLE">
+    <configuration name="Lab150_Static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,11 +272,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/05_HB_I" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/05_HB_I/Lab138_Hybrid_I.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab150_Static.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab139_REAL_AUTOMATION" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab151_Static_Method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -271,11 +294,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/Lab139_REAL_AUTOMATION.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab151_Static_Method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab140_MO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab152_Static_All" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,11 +316,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overridding" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overridding/Lab140_MO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab152_Static_All.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab141_MO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab153_Static_Non_Static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,11 +338,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overridding" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overridding/Lab141_MO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab153_Static_Non_Static.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,7 +351,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task022_task2_Encapsulation of API Token" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab154_REAL_EXAMPLE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,11 +360,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/homework/Task022_task2_Encapsulation of API Token.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab154_REAL_EXAMPLE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,11 +375,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab141_MO" />
-        <item itemvalue="Python.Lab140_MO" />
-        <item itemvalue="Python.Lab139_REAL_AUTOMATION" />
-        <item itemvalue="Python.Task022_task2_Encapsulation of API Token" />
-        <item itemvalue="Python.Lab138_Hybrid_I" />
+        <item itemvalue="Python.Lab154_REAL_EXAMPLE" />
+        <item itemvalue="Python.Lab153_Static_Non_Static" />
+        <item itemvalue="Python.Lab152_Static_All" />
+        <item itemvalue="Python.Lab151_Static_Method" />
+        <item itemvalue="Python.Lab150_Static" />
       </list>
     </recent_temporary>
   </component>
@@ -727,7 +750,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764240399295</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="20th nov code Added">
+      <option name="closed" value="true" />
+      <created>1764253596570</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1764253596570</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
