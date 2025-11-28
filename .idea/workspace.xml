@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="27th nov code Added">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab163_Program_Fix_Try_Except_MULTIPLE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab164_Program_Fix_Try_Except_Finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab166_Try_Except_Else_Finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab167_OWN_EXP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab168_Custom_Exception.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab168_Custom_Exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab168_Custom_Exception.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,6 +199,7 @@
     "Python.Lab164_Program_Fix_Try_Except_Finally.executor": "Run",
     "Python.Lab166_Try_Except_Else_Finally.executor": "Run",
     "Python.Lab167_OWN_EXP.executor": "Run",
+    "Python.Lab168_Custom_Exception.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -773,7 +769,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764325077477</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="27th nov code Added">
+      <option name="closed" value="true" />
+      <created>1764326212583</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1764326212583</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
