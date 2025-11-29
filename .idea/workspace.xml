@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="27th nov code Added">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab165_REAL_API_TESTING.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab169_REAL_Selenium_Ex_TESTING.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab170_File_NOT_FOUND.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +259,7 @@
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\Class_Object" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab170_File_NOT_FOUND">
+  <component name="RunManager" selected="Python.Lab171_ExceptionGrouping">
     <configuration name="Lab165_REAL_API_TESTING" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -278,28 +274,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab165_REAL_API_TESTING.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab167_OWN_EXP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab167_OWN_EXP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,13 +348,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab171_ExceptionGrouping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab171_ExceptionGrouping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab171_ExceptionGrouping" />
         <item itemvalue="Python.Lab170_File_NOT_FOUND" />
         <item itemvalue="Python.Lab169_REAL_Selenium_Ex_TESTING" />
         <item itemvalue="Python.Lab165_REAL_API_TESTING" />
         <item itemvalue="Python.Lab168_Custom_Exception" />
-        <item itemvalue="Python.Lab167_OWN_EXP" />
       </list>
     </recent_temporary>
   </component>
@@ -398,22 +394,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761579204969</updated>
-    </task>
-    <task id="LOCAL-00001" summary="New files Added">
-      <option name="closed" value="true" />
-      <created>1761592547527</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1761592547527</updated>
-    </task>
-    <task id="LOCAL-00002" summary="New files Added">
-      <option name="closed" value="true" />
-      <created>1761592612661</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1761592612661</updated>
     </task>
     <task id="LOCAL-00003" summary="New files Added">
       <option name="closed" value="true" />
@@ -791,7 +771,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764326480872</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="27th nov code Added">
+      <option name="closed" value="true" />
+      <created>1764431542900</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1764431542900</updated>
+    </task>
+    <task id="LOCAL-00051" summary="27th nov code Added">
+      <option name="closed" value="true" />
+      <created>1764431685034</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1764431685034</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
