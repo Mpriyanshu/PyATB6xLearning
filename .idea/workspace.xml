@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="27th nov code Added">
+    <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="29th nov code Added">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20_Modules_OS/Lab172_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/Lab173_Package.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/package/util_module.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -399,14 +401,6 @@
       <option name="presentableId" value="Default" />
       <updated>1761579204969</updated>
     </task>
-    <task id="LOCAL-00004" summary="New files Added">
-      <option name="closed" value="true" />
-      <created>1761602001764</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1761602001764</updated>
-    </task>
     <task id="LOCAL-00005" summary="11 oct Added">
       <option name="closed" value="true" />
       <created>1761664133014</created>
@@ -791,7 +785,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764432181090</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="29th nov code Added">
+      <option name="closed" value="true" />
+      <created>1764518313335</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1764518313335</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -823,7 +825,8 @@
     <MESSAGE value="20th nov code Added" />
     <MESSAGE value="22th nov code Added" />
     <MESSAGE value="27th nov code Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="27th nov code Added" />
+    <MESSAGE value="29th nov code Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="29th nov code Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
