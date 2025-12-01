@@ -6,16 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="29th nov code Added">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22_Collections/Lab175_Main_METHOD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22_Collections/Lab176_Main_Usage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22_Collections/Lab177_OS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab178_Open.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab179_Open_R.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab180_append_open.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/priyanshu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab181_CSV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/TD.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_22_Collections/Lab174_Collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_22_Collections/Lab174_Collections.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,6 +215,7 @@
     "Python.Lab178_Open.executor": "Run",
     "Python.Lab179_Open_R.executor": "Run",
     "Python.Lab180_append_open.executor": "Run",
+    "Python.Lab181_CSV.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -267,10 +261,14 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Abc/PycharmProjects/PyATB6xLearning/src/ex_23_File_IO"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_23_File_IO" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_23_File_IO" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_20_Modules_OS" />
@@ -279,51 +277,7 @@
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\01_Class_Object" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab180_append_open">
-    <configuration name="Lab176_Main_Usage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22_Collections" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22_Collections/Lab176_Main_Usage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab177_OS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22_Collections" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22_Collections/Lab177_OS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lab182_Pandas">
     <configuration name="Lab178_Open" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -390,13 +344,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab181_CSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_23_File_IO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_23_File_IO/Lab181_CSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab182_Pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_23_File_IO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_23_File_IO/Lab182_Pandas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab182_Pandas" />
+        <item itemvalue="Python.Lab181_CSV" />
         <item itemvalue="Python.Lab180_append_open" />
         <item itemvalue="Python.Lab179_Open_R" />
         <item itemvalue="Python.Lab178_Open" />
-        <item itemvalue="Python.Lab177_OS" />
-        <item itemvalue="Python.Lab176_Main_Usage" />
       </list>
     </recent_temporary>
   </component>
@@ -414,14 +412,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761579204969</updated>
-    </task>
-    <task id="LOCAL-00007" summary="14 oct code Added">
-      <option name="closed" value="true" />
-      <created>1761747558163</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1761747558163</updated>
     </task>
     <task id="LOCAL-00008" summary="14 oct code Added">
       <option name="closed" value="true" />
@@ -807,7 +797,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764580728909</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="29th nov code Added">
+      <option name="closed" value="true" />
+      <created>1764584710666</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1764584710666</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
