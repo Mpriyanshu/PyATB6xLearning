@@ -6,10 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="29th nov code Added">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/Lab173_Package.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/package/util_module.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/Lab173_Package.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/Lab173_Package.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/mymodule.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/mymodule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/package/util_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/package/util_module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,6 +208,7 @@
     "Python.Lab170_File_NOT_FOUND.executor": "Run",
     "Python.Lab171_ExceptionGrouping.executor": "Run",
     "Python.Lab172_OS.executor": "Run",
+    "Python.Lab173_Package.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -265,51 +266,7 @@
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\Polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab172_OS">
-    <configuration name="Lab165_REAL_API_TESTING" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab165_REAL_API_TESTING.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab169_REAL_Selenium_Ex_TESTING" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab169_REAL_Selenium_Ex_TESTING.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lab174_Collections">
     <configuration name="Lab170_File_NOT_FOUND" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -376,13 +333,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab173_Package" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_21_Package_vs_DIR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/Lab173_Package.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab174_Collections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22_Collections" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22_Collections/Lab174_Collections.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab174_Collections" />
+        <item itemvalue="Python.Lab173_Package" />
         <item itemvalue="Python.Lab172_OS" />
         <item itemvalue="Python.Lab171_ExceptionGrouping" />
         <item itemvalue="Python.Lab170_File_NOT_FOUND" />
-        <item itemvalue="Python.Lab169_REAL_Selenium_Ex_TESTING" />
-        <item itemvalue="Python.Lab165_REAL_API_TESTING" />
       </list>
     </recent_temporary>
   </component>
@@ -400,14 +401,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761579204969</updated>
-    </task>
-    <task id="LOCAL-00005" summary="11 oct Added">
-      <option name="closed" value="true" />
-      <created>1761664133014</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1761664133014</updated>
     </task>
     <task id="LOCAL-00006" summary="14 oct code Added">
       <option name="closed" value="true" />
@@ -793,7 +786,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764518313335</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="29th nov code Added">
+      <option name="closed" value="true" />
+      <created>1764522238012</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1764522238012</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
