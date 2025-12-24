@@ -6,8 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="ab7b7f2d-5555-4718-a70a-71e59ba36263" name="Changes" comment="29th nov code Added">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab181_CSV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/TD.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24_PyTest/Lab183_pyTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24_PyTest/test_Lab184_Basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24_PyTest/test_Lab185.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_Allure_Pytest/test_Lab186_Allure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Requests/test_Lab187_pytest_requests_allure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Requests/test_Lab188_More.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Requests/test_Lab189_POST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Requests/test_Lab190_POST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Requests/test_Lab191_POST_TOKEN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Requests/test_Lab192_PUT_TOKEN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Requests/test_task24_Delete_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Requests/test_task25_Patch_token.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +66,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for src.ex_24_PyTest.test_Lab184_Basic.test_method1.executor": "Run",
+    "Python tests.Python tests for src.ex_24_PyTest.test_Lab184_Basic.test_method2.executor": "Run",
+    "Python tests.Python tests for src.ex_25_Allure_Pytest.test_Lab187_More.test_basic_math.executor": "Run",
+    "Python tests.Python tests for src.ex_25_Allure_Pytest.test_Lab187_More.test_sub1.executor": "Run",
+    "Python tests.Python tests for src.ex_25_Allure_Pytest.test_Lab187_More.test_sub3.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Requests.test_Lab187_pytest_requests_allure.test_get_request.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Requests.test_Lab187_pytest_requests_allure.test_get_request_negative.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Requests.test_Lab189_POST.test_create_booking_positive_tc1.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Requests.test_Lab190_POST.test_create_booking_negative_tc1.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Requests.test_Lab190_POST.test_create_booking_positive_tc1.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Requests.test_Lab190_POST_TOKEN.test_create_token.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Requests.test_Lab191_POST_TOKEN.test_create_token.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Requests.test_Lab192_PUT_TOKEN.test_put.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Requests.test_task24_Delete_token.test_delete.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Requests.test_task25_Patch_token.test_patch.executor": "Run",
     "Python.Lab Time.executor": "Run",
     "Python.Lab001_Python_Hello.executor": "Run",
     "Python.Lab002.executor": "Run",
@@ -216,6 +241,7 @@
     "Python.Lab179_Open_R.executor": "Run",
     "Python.Lab180_append_open.executor": "Run",
     "Python.Lab181_CSV.executor": "Run",
+    "Python.Lab182_Pandas.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -270,131 +296,96 @@
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_23_File_IO" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_26_Requests" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_23_File_IO" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_20_Modules_OS" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\task\homework" />
       <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\05_Inheritance\01_SI" />
-      <recent name="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\01_Class_Object" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab182_Pandas">
-    <configuration name="Lab178_Open" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for src.ex_26_Requests.test_task25_Patch_token.test_patch">
+    <configuration name="Python tests for src.ex_26_Requests.test_Lab190_POST.test_create_booking_negative_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22_Collections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Abc\PycharmProjects\PyATB6xLearning\src\ex_23_File_IO\Lab178_Open.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26_Requests.test_Lab190_POST.test_create_booking_negative_tc1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab179_Open_R" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_26_Requests.test_Lab190_POST.test_create_booking_positive_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_23_File_IO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_23_File_IO/Lab179_Open_R.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26_Requests.test_Lab190_POST.test_create_booking_positive_tc1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab180_append_open" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_26_Requests.test_Lab192_PUT_TOKEN.test_put" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_23_File_IO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_23_File_IO/Lab180_append_open.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26_Requests.test_Lab192_PUT_TOKEN.test_put&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab181_CSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_26_Requests.test_task24_Delete_token.test_delete" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_23_File_IO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_23_File_IO/Lab181_CSV.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26_Requests.test_task24_Delete_token.test_delete&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab182_Pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_26_Requests.test_task25_Patch_token.test_patch" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_23_File_IO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_23_File_IO/Lab182_Pandas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26_Requests.test_task25_Patch_token.test_patch&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab182_Pandas" />
-        <item itemvalue="Python.Lab181_CSV" />
-        <item itemvalue="Python.Lab180_append_open" />
-        <item itemvalue="Python.Lab179_Open_R" />
-        <item itemvalue="Python.Lab178_Open" />
+        <item itemvalue="Python tests.Python tests for src.ex_26_Requests.test_task25_Patch_token.test_patch" />
+        <item itemvalue="Python tests.Python tests for src.ex_26_Requests.test_task24_Delete_token.test_delete" />
+        <item itemvalue="Python tests.Python tests for src.ex_26_Requests.test_Lab190_POST.test_create_booking_positive_tc1" />
+        <item itemvalue="Python tests.Python tests for src.ex_26_Requests.test_Lab190_POST.test_create_booking_negative_tc1" />
+        <item itemvalue="Python tests.Python tests for src.ex_26_Requests.test_Lab192_PUT_TOKEN.test_put" />
       </list>
     </recent_temporary>
   </component>
@@ -412,14 +403,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761579204969</updated>
-    </task>
-    <task id="LOCAL-00008" summary="14 oct code Added">
-      <option name="closed" value="true" />
-      <created>1761747736620</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1761747736620</updated>
     </task>
     <task id="LOCAL-00009" summary="14 oct code Added">
       <option name="closed" value="true" />
@@ -805,7 +788,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764584710666</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="29th nov code Added">
+      <option name="closed" value="true" />
+      <created>1764604139964</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1764604139966</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
